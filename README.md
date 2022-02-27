@@ -1,8 +1,5 @@
 ### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Indya!
 
-<!--
-**indyamolloy/indyamolloy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 
 I'm currently training to be a full-stack developer at The School of Code.
