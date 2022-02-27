@@ -2,12 +2,6 @@
 
 
 
-![Continuous line drawing of calendar vector illustration (200 × 500px) (500 × 200px) (500 × 100px) (50 × 50px) (100 × 100px) (1)](https://user-images.githubusercontent.com/93342205/155901210-00cd91e7-cb80-4564-aed1-8f615baa42b7.png)
-
-
-
-
-
 I'm currently training to be a full-stack developer at The School of Code.
 
  I'm a creative thinker with a passion to learn more. I love finding solutions to real-world problems and turning ideas into reality!
