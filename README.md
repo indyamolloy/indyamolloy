@@ -1,5 +1,6 @@
-### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Indya!
+## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Indya!
 
+[_Pink And Black Modern Scientific Linkedin Banner (1).zip](https://github.com/indyamolloy/indyamolloy/files/8149456/_Pink.And.Black.Modern.Scientific.Linkedin.Banner.1.zip)
 
 
 I'm currently training to be a full-stack developer at The School of Code.
@@ -7,7 +8,7 @@ I'm currently training to be a full-stack developer at The School of Code.
  I'm a creative thinker with a passion to learn more. I love finding solutions to real-world problems and turning ideas into reality!
 
 [www.indyamolloy.com](www.indyamolloy.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/indya-carroll-molloy)
+[LinkedIn](linkedin.com/in/indya-carroll-molloy)
 
 ### Skills:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
