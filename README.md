@@ -1,6 +1,7 @@
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Indya!
 
-[_Pink And Black Modern Scientific Linkedin Banner (1).zip](https://github.com/indyamolloy/indyamolloy/files/8149456/_Pink.And.Black.Modern.Scientific.Linkedin.Banner.1.zip)
+![1](https://user-images.githubusercontent.com/93342205/155900432-d5cb4634-5be8-4786-b13b-a4bc834d5e69.png)
+
 
 
 I'm currently training to be a full-stack developer at The School of Code.
