@@ -1,6 +1,7 @@
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Indya!
 
-![Continuous line drawing of calendar vector illustration (4)](https://user-images.githubusercontent.com/93342205/155900924-7696aeb4-30c7-40f5-88cc-60a00f32f48f.png)
+
+![Continuous line drawing of calendar vector illustration (200 × 500px) (500 × 200px) (500 × 100px) (50 × 50px) (100 × 100px)](https://user-images.githubusercontent.com/93342205/155901181-92f0d707-9a4a-4ef5-89e0-8350f14a4c85.png)
 
 
 
