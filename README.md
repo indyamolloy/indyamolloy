@@ -7,6 +7,8 @@ I'm currently training to be a full-stack developer at The School of Code.
  I'm a creative thinker with a passion to learn more. I love finding solutions to real-world problems and turning ideas into reality!
 
 [www.indyamolloy.com](www.indyamolloy.com)
+
+
 [LinkedIn](linkedin.com/in/indya-carroll-molloy)
 
 ### Skills:
