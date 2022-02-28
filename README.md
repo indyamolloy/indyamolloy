@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/93342205/156054785-38e1f724-dc38-45af-9115-c5d6320af0e2.png" />
+  <img src="https://user-images.githubusercontent.com/93342205/156054785-38e1f724-dc38-45af-9115-c5d6320af0e2.png"  width="200" />
 </p>
 
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Indya!
