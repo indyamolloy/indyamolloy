@@ -5,14 +5,14 @@
 </p>
 
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Indya!
-[www.indyamolloy.com](https://www.indyamolloy.com)
+💻 All of my projects are available at www.indyamolloy.com
 
 
 ### :woman:About me:
 - :books:I'm currently training to be a full-stack developer at The School of Code.
 - :sparkles: I'm a creative thinker with a passion to learn more. I love finding solutions to real-world problems and turning ideas into reality!
 - :surfer: As well as coding, I love surfing, travelling and cooking!
-
+- 🌱 I'm looking to learn MongoDB, ThreeJS & Next.js
 
 
 [LinkedIn](https://linkedin.com/in/indya-carroll-molloy)
