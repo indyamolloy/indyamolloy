@@ -15,8 +15,6 @@
 - 🌱 I'm looking to learn MongoDB, ThreeJS & Next.js
 
 
-[LinkedIn](https://linkedin.com/in/indya-carroll-molloy)
-
 ### :computer:Skills:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,6 +24,8 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
+### Find me at:
+<a href="https://linkedin.com/in/indya-carroll-molloy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="indyaMolloy" height="30" width="40" /></a>
 
  
  ### :chart_with_upwards_trend:Stats:
