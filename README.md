@@ -25,7 +25,7 @@ My portfolio is available at www.indyamolloy.com
 
 
 ### ➡️ Find me at:
-<a href="https://linkedin.com/in/indya-carroll-molloy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="indyaMolloy" height="30" width="40" /></a>
+- <a href="https://linkedin.com/in/indya-carroll-molloy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="indyaMolloy" height="30" width="40" /></a>
 
  
  ### :chart_with_upwards_trend:Stats:
