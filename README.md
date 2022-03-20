@@ -5,7 +5,7 @@
 </p>
 
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Indya!
-💻 All of my projects are available at www.indyamolloy.com
+My portfolio is available at www.indyamolloy.com
 
 
 ### :woman:About me:
@@ -24,7 +24,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
-### Find me at:
+### ➡️ Find me at:
 <a href="https://linkedin.com/in/indya-carroll-molloy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="indyaMolloy" height="30" width="40" /></a>
 
  
