@@ -9,7 +9,7 @@ My portfolio is available at www.indyamolloy.com
 
 
 ### :woman:About me:
-- :books:I trained to be a full-stack developer at The School of Code.
+<!-- - :books:I complfull-stack developer at The School of Code. -->
 - :sparkles: I'm a creative thinker with a passion to learn more. I love finding solutions to real-world problems and turning ideas into reality!
 - :surfer: As well as coding, I love surfing, travelling and cooking!
 - 🌱 I'm interested in learning MongoDB, ThreeJS & Next.js soon!
