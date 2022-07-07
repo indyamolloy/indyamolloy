@@ -31,3 +31,7 @@ My portfolio is available at www.indyamolloy.com
  ### :chart_with_upwards_trend:Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=indyamolloy&theme=omni)](https://git.io/streak-stats)
 [![indyas GitHub stats](https://github-readme-stats.vercel.app/api?username=indyamolloy&show_icons=true&theme=omni)](https://github.com/indyamolloy/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indyamolloy&layout=compact)](https://github.com/indyamolloy/github-readme-stats)
+
